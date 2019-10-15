@@ -1,3 +1,4 @@
-# rez-qt-py
+rez-qt-py
+===
 
 Rez build configuration for Qt.Py.
